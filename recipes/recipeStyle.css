@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(1, 49, 122);
+
+}
+h2 {
+font-weight: 500;
+color: rgb(40, 11, 78);
+}
+h3{
+    color: rgb(99, 72, 135);
+    font-family: monospace;
+}
+.steps {
+
+}
